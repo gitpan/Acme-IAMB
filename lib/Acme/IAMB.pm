@@ -10,11 +10,11 @@ Acme::IAMB - The great new Acme::IAMB!
 
 =head1 VERSION
 
-Version 0.01
+Version 0.02
 
 =cut
 
-our $VERSION = '0.01';
+our $VERSION = '0.02';
 
 
 =head1 SYNOPSIS
@@ -48,6 +48,7 @@ sub function1 {
 
 sub function2 {
 }
+foobar
 
 =head1 AUTHOR
 
